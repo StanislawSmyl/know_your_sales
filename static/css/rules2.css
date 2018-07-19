@@ -1,0 +1,55 @@
+.mainCont{
+	margin-left: 96px;
+	margin-right: 96px;
+}
+.header{
+	border-bottom: 1px solid white;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #564c4c;
+    border-top-left-radius: 0.7rem;
+	border-top-right-radius: 0.7rem;
+    color: whitesmoke;
+}
+.rulesContainer{
+  width: 100%;
+  /*height: 15rem;*/
+  background-color: #efefef;
+  border-radius: 0.7rem;
+  margin-bottom: 4rem;
+  border: 1px solid #564c4c;
+}
+.rulesContainer .lift{
+	padding-bottom: 2rem;
+}
+.confidence, .support, .lift{
+  color: gray;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-bottom:0;
+  padding-right: 1rem;
+}
+
+.outerContainer{
+  display: table-cell;
+  vertical-align: middle;
+  width:20%;
+  line-height: 10%;
+}
+.prittier{
+  width:6rem;
+  height:4.3rem;
+  background-color: indianred;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 0.7rem;
+  display: none;
+}
+.num{
+	color: lightcoral;
+}
+
+.message{
+	text-align: center;
+	margin: 30rem;
+}

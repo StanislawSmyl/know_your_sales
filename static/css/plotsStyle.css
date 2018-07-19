@@ -1,0 +1,40 @@
+.rightSideCont{
+	float: right; 
+	width: 35%; 
+	margin-top: 1.5%;
+}
+.stats{
+	margin-bottom: 4.5%; 
+	border-bottom: 1px solid lightgray;
+}
+.pytCode{
+	display: none;
+}
+.map{
+	height: 200px;
+}
+.plotsContainer1, .plotsContainer3 {
+  position:   relative;
+  width:      60%;
+  height: 0;
+  padding-top:   30%;
+}
+.plotsContainer2 {
+  position:   relative;
+  width:      60%;
+  height: 0;
+  padding-top:   80%;
+}
+.line1, .line2, .bar1{
+	position: absolute; 
+	left: 0px; 
+	top: 0px; 
+	width: 100%; 
+	height: 100%
+}
+
+.header{
+	text-align: center;
+    font-size: 200%;
+    color: lightcoral;
+}

@@ -1,0 +1,30 @@
+.logContainer{
+	position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 26rem;
+    height: 27rem;
+}
+h1{
+	color: gray;
+}
+.logForm{
+	width: 90%;
+	color: gray;
+}
+button{
+	height: 2.7rem;
+    width: 4rem;
+}
+input[type = text], input[type = password]{
+	width: 25rem;
+    height: 3rem;
+    margin-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+form{
+	margin-bottom: 0.5rem;
+}

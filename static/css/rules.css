@@ -1,0 +1,35 @@
+.mainCont{
+	margin-left: 96px;
+	margin-right: 96px;
+}
+.rulesContainer{
+  width: 80rem;
+  height: 15rem;
+  background-color: lightgrey;
+  border-radius: 0.7rem;
+  /*text-align:center;*/
+  display:table;
+	margin-bottom: 4rem;
+}
+.confidence, .support, .lift{
+  color: gray;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-bottom:0;
+  float:left;
+}
+
+.outerContainer{
+  display: table-cell;
+  vertical-align: middle;
+  width:20%;
+  line-height: 10%;
+}
+.prittier{
+  width:6rem;
+  height:4.3rem;
+  background-color: indianred;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 0.7rem;
+}
